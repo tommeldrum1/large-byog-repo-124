@@ -1,0 +1,12 @@
+{
+  "name": "large-byog-repo-124",
+  "version": "1.0.0",
+  "description": "Repository with 1000 small files",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

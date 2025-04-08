@@ -1,0 +1,5 @@
+{
+  "environment": "production",
+  "debug": false,
+  "port": 8080
+}

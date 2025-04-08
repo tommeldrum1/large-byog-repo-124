@@ -1,0 +1,5 @@
+{
+  "environment": "test",
+  "debug": true,
+  "port": 3001
+}
