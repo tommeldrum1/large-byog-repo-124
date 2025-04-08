@@ -1,0 +1,1 @@
+// This script generated all the batch files for this repository
